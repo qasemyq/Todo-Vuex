@@ -12,7 +12,7 @@
 </template>
 
 <script>
-
+//
 import { mapActions } from 'vuex'
 import { v1 } from 'uuid'
 
