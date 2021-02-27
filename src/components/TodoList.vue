@@ -8,6 +8,7 @@
 
 
 <script>
+//
 import TodoItem from '@/components/TodoItem.vue'
 import { mapGetters } from 'vuex'
 
@@ -15,6 +16,7 @@ export default {
     components:{
         TodoItem
     },
+    //
     computed:{
         ...mapGetters(['allTodos'])
     }
