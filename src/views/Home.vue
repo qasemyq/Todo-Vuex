@@ -3,6 +3,4 @@
   </div>
 </template>
 
-<script>
-//
-</script>
+
